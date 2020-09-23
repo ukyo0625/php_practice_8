@@ -10,7 +10,7 @@
 </head>
 <body>
   <div class="menu-wrapper container">
-    <h1 class="logo">Café Progate</h1>
+    <h1 class="logo">Café Practice</h1>
     <div class="menu-items">
       <?php foreach ($menus as $menu): ?>
         <div class="menu-item">
